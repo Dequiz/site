@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+background-color: rgb(57, 179, 168);
+font-size: 30px;
+text-align: center;
+height: 40px;
+}
+body{
+    background-color: rgb(223, 223, 223);
+}
+.tenis1{
+    position: relative;
+    top: 40px;
+   left: 150px;
+    height: 300px;
+    
+}
+.tenis2{
+    position: relative;
+    top: 70px;
+    padding: 30px;
+    left: 175px;
+    bottom: 5px;
+    height: 300px;
+}
+.tenis7{
+  position: relative;
+  height: 300px;
+  top: 40px;
+  left:200px;
+}
+.vermei{
+    position: relative;
+    top: 40px;
+    left: 150px;
+    color: #000000;
+    font: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    }
+    .vermei:hover{
+        color: rgb(0, 255, 179);
+    }
+    .vermei-price{
+        position: relative;
+        left: 150px;
+       top: 39px;
+    }
+    .vermei-des{
+       width: 40px;
+        border: 1px solid black;
+        border-color: black;
+        border-radius: 6px;
+        position: relative;
+        left: 220px;
+        top: 19px;
+        color: white;
+        background: black;
+    }
+    .vermei-but{
+        position: relative;
+        left: 150px;
+        bottom: 262px;
+        width: 300px;
+        height: 40px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        background: rgb(57, 179, 168);
+        border-radius: 5px;
+    }
+    .vermei-but:hover{
+        background: rgb(73, 223, 223);
+        color: rgb(233, 233, 233);
+    }
+    .preto{
+        position: relative;
+        bottom: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: #000000;
+        left: 510px;
+        font-size:18px;
+    }
+    .preto:hover{
+        color: rgb(0, 255, 179);
+    }
+    .preto-price{
+     position: relative;
+     bottom: 22px;
+     left: 512px;
+    }
+    .preto-des{
+        position: relative;
+        bottom: 41px;
+        left: 580px;
+        border: 1px solid black;
+        border-radius: 6px;
+        background: black;
+        color: white;
+        width: 40px;
+    }
+    .preto-but{
+        position: relative;
+        left: 510px;
+        bottom: 38px;
+        width: 300px;
+        height: 40px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        background: rgb(57, 179, 168);
+        border-radius: 5px;
+    }
+    .preto-but:hover{
+        background: rgb(73, 223, 223);
+        color: rgb(233, 233, 233);
+    }
+    .rosa{
+        position: relative;
+        bottom: 142px;
+        font-size: 18px;
+        left: 870px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .rosa:hover{
+        color: rgb(0, 255, 179);
+    }
+    .rosa-price{
+        position: relative;
+        bottom: 140px;
+        left: 870px;
+    }
+    .rosa-des{
+        position: relative;
+        bottom: 160px;
+        left: 940px;
+        border: 1px solid black;
+        background: black;
+        color: white;
+        width: 40px;
+        border-radius: 6px;
+    }
+    .rosa-but{
+        position: relative;
+        bottom: 156px;
+        left: 870px;
+        width: 300px;
+        height: 40px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        background: rgb(57, 179, 168);
+        border-radius: 5px;
+    }
+    .rosa-but:hover{
+        background: rgb(73, 223, 223);
+        color: rgb(233, 233, 233);
+    }
+   .rec{
+    position: relative;
+    bottom: 695px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 100px;
+}
+
+
+
+

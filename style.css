@@ -1,0 +1,93 @@
+ header{
+ background-color: rgb(71, 23, 116);
+ position: relative;
+ left:0px;
+ color: aliceblue;
+}
+
+body{
+background-image: url();
+}
+    
+    form{
+        position: relative;
+        top: 100px;
+        left: 450px;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQMFArgARzqfx-GtIS3sVp1gJXYc0SwULCiQ&usqp=CAU);
+        background-size: 1000px;
+        width: 300px;
+        border: 2px solid black;
+    }
+h2{
+    font-size: 30px;
+    position: relative;
+    left: 550px;
+    top: 90px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQMFArgARzqfx-GtIS3sVp1gJXYc0SwULCiQ&usqp=CAU);;
+background-size: 1000px;
+width: 230px;
+}
+
+table{
+    position: relative;
+    left:550px;
+}
+label[for="nome"] {
+    color: rgb(255, 255, 255);
+    position: relative;
+    left: 35px;
+    top: 20px;
+    }
+    label[for="email"] {
+        color: rgb(255, 255, 255);
+        position: relative;
+        left:35px;
+        top:20px;
+        
+        }
+    label[for="tel"]{
+        position: relative;
+        left: 19px;
+        top: px
+    }
+    label[for="cpf"]{
+        position: relative;
+        right: 12px;
+        top: px;
+    }
+    
+      #nome{
+        position: relative;
+        left: 31px;
+        border: 2px solid black;
+        top: 20px;
+      }
+      #email{
+        position: relative;
+        right: 3px;
+        border: 2px solid black;
+      }
+        #tel{
+        position: relative;
+        left: 15px;
+        top: px;
+        border: 2px solid black;
+}
+        #cpf{
+        position: relative;
+        right:16px;
+        width:200px;
+        height: 50px;
+        top:px;
+        border: 2px solid black;
+}
+.rec{
+    position: relative;
+    bottom: 120px;
+    right: 320px;
+}
+.tenis{
+    position: relative;
+    top: 3px;
+    left: 210px;
+}

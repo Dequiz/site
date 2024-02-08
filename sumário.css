@@ -1,0 +1,118 @@
+    header{
+        font-size: 50px;
+        text-align: center;
+        background-color: yellow;
+        width: 1300px;
+border: 1px solid yellow;
+border-radius:100px;
+    }
+body{
+    background-color: rgb(253, 244, 232);
+}
+/*Mudar o nome fora das caixas de comentário*/    
+.chocl{
+            font-size: 15px;
+            position: absolute;
+            left: 14px;
+            border: 1px solid rgb(23, 180, 75);
+            border-radius: 40px;
+            border-color: chocolate;
+            background-color: chocolate;
+            border-width: 10px;
+            width: 300px;
+            top: 70px;
+            }
+            .slda{
+                background-color: rgb(255, 255, 255);
+                font-size: 15px;
+                position: absolute;
+                left:336px;
+                border: 1px solid rgb(23, 180, 75);
+                border-radius: 40px;
+                border-color: greenyellow;
+                background-color: greenyellow;
+                border-width: 12px;
+                width: 300px;
+                top: 70px;
+            }
+        .solto{
+            background-color: rgb(255, 255, 255);
+                font-size: 15px;
+                position: absolute;
+                left:660px;
+                border: 1px solid rgb(23, 180, 75);
+                border-radius: 40px;
+                border-color: rgb(225, 226, 174);
+                background-color: rgb(225, 226, 174);
+                border-width: 12px;
+                width: 300px;
+                top: 70px;
+        }
+        
+        .mac{
+            background-color: rgb(255, 255, 255);
+                font-size: 15px;
+                position: absolute;
+                left:984px;
+                border: 1px solid rgb(23, 180, 75);
+                border-radius: 40px;
+                border-color: rgb(236, 238, 117);
+                background-color: rgb(236, 238, 117);
+                border-width: 12px;
+                width: 300px;
+                top: 70px;
+        }
+    .chocolate{
+        text-align: center;
+    }
+    .chocolate:hover{
+        color: rgb(124, 64, 21)        ;
+    }
+    
+    .salada{
+        text-align: center;
+    }
+    .salada:hover{
+        color: green;
+    }
+    .arroz{
+        text-align: center;
+    }
+    .arroz:hover{
+        color: rgb(165, 154, 140);
+    }
+    .carbo{
+        text-align: center;
+    }
+    .carbo{
+        color:rgb(0, 0, 0);
+    }
+    .carbo:hover{
+        color: rgb(207, 207, 18);
+    }
+   
+
+.rec{
+    position: absolute;
+    top: 3%;
+    background-color: rgb(255, 228, 109);
+    height: 40px;
+    left: 120px;
+    border-radius: 100px;
+}
+.rec:hover{
+    background-color:rgb(126, 126, 12) ;
+    color: rgb(255, 255, 255);
+}
+.cont{
+    position:absolute;
+    top: 3%;
+    left: 40px;
+    height: 40px;
+    background-color: rgb(255, 228, 109);
+    border-radius: 100px;
+}
+.cont:hover{
+    background-color:rgb(126, 126, 12) ;
+    color: rgb(255, 255, 255);
+}
